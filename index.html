@@ -13,9 +13,9 @@
 			<ul class="nav navbar-nav nav_modification pull-right">
 				<li><a href="#Home">Home</a></li>
 				<li><a href="#about">AboutMe</a></li>
-				<li><a href="#">Skills</a></li>
-				<li><a href="#">Education</a></li>
-				<li><a href="#">Experience</a></li>
+				<li><a href="#skills">Skills</a></li>
+				<li><a href="#edu">Education</a></li>
+				<li><a href="#">ProjectDone</a></li>
 				<li><a href="#">ContactMe</a></li>
 			</ul>	
 			<div id="Home" class="bg_image text-center" title="SudhaKamana">
@@ -33,17 +33,62 @@
 					<h4 class="text-center">Lorem ipsum has become the industry standard for design mockups and prototypes. By adding a little bit of Latin to a mockup, you’re able to show clients a more complete version of your design without actually having to invest time and effort drafting copy.</h4>
 					<h4 class="text-center">But despite all its benefits, seeing the same random Latin text in every design can get a little boring for you and your clients. So if you have a client who’s got a sense of humour or if you’re just tired of going the traditional route in your mockups, here are 15 creative and funny lorem ipsum text generators that are sure to lighten the mood at any client meeting.</h4>
 				</div>
-				<!-- <div class="text-center col-md-12 btn_now">
+				<div class="text-center col-md-12 btn_now" >
 					<button class="btn btn-primary">Knowledge I Know</button>
-				</div> -->
+				</div>
 			</div>
 		</article>
-		<div class="container-fluid bg-color">
+		<div id="skills" class="container-fluid bg-color">
 			<div class="row">
-				<p class="text-center clr">Services</p>
-				<h2 class="text-center">Knowledge I Know</h2>
-
+				<h4 class="text-center clr">Services</h4>
+				<h1 class="text-center clr2">Knowledge I Know</h1>
+				
 			</div>
+		</div>
+		<div id="edu" class="container-fluid edu_img">
+			<div class="row">
+				<h1 class="text-center">Education</h1>
+				<div class="container">
+				<div class="row">
+					<div class="edu1 col-md-6 text-right">
+						<a href="#edu" class="text-center" data-toggle="popover" title="Education Details" data-placement="left" data-content="Completed B.Tech in the Stream of Computer Science engineering with the aggregate of 70percent in the college of Narasaraopet Engineering College" >B.Tech</a>
+					</div>
+					<script>
+						$(document).ready(function(){
+							$('[data-toggle="popover"]').popover();   
+						});
+					</script>
+				</div>
+			</div>			
+			<div class="edu2 text-center">
+				<a href="#edu" class="text-center" data-toggle="popover" title="Education Details" data-placement="right" data-content="Aggregate of 72percent in NRI junior college passedout year of 2013" >12th</a>
+			</div>
+				<script>
+					$(document).ready(function(){
+						$('[data-toggle="popover"]').popover();   
+					});
+				</script>
+			<div class="container">
+				<div class="row">
+					<div class="edu3 col-md-6 text-right">
+						<a href="#edu" class="text-center" data-toggle="popover" title="Education Details" data-placement="left" data-content="Aggregate of 73percent in St.Charles E.M High School passedout year of 2010" >S.S.C</a>
+					</div>
+						<script>
+							$(document).ready(function(){
+								$('[data-toggle="popover"]').popover();   
+							});
+						</script>
+				</div>
+			</div>
+			<div class="edu4 text-center">
+				<a href="#edu" class="text-center" data-toggle="popover" title="Education Details" data-placement="right" data-content="I have done my intenship for duration of 6months at location of hyderbad" >Intenship</a>
+			</div>
+				<script>
+					$(document).ready(function(){
+						$('[data-toggle="popover"]').popover();   
+					});
+				</script>
+		</div>
 		</div>
 	</body>
 </html>
