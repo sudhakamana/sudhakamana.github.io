@@ -42,7 +42,7 @@ nav{margin-bottom:0px!important;}
 }
 .edu_img h1{color:white;}
 .edu1{margin-top: 45px;
-		border-right: 1px solid red;
+		border-right:2px solid red;
 		height: 151px;}
 .edu1 h3{color:#E9EBED;}
 .edu1 i{color:#E9EBED;
@@ -50,20 +50,20 @@ nav{margin-bottom:0px!important;}
 		font-size:18px}
 
 .edu2{margin-right:93px;
-		border-left:1px solid red}
+		border-left:2px solid red}
 .edu2 h3{color:#E9EBED;}
 .edu2 i{font-size:18px;
 		color:#E9EBED;
 		line-height: 1.4;}
 
-.edu3 {border-right: 1px solid red;}
+.edu3 {border-right:2px solid red;}
 .edu3 h3{color:#E9EBED;}
 .edu3 i{font-size:18px;
 		color:#E9EBED;
 		line-height: 1.4;}
 
 .edu4{margin-right:63px;
-		border-left: 1px solid red;}
+		border-left: 2px solid red;}
 .edu4 h3{color:#E9EBED;}
 .edu4 i{font-size:18px;
 		color:#E9EBED;
