@@ -6,7 +6,7 @@
 							color: black!important;}
 .nav_modification li a{color:#E8E8E4!important;}
 .nav_modification {background-color:rgba(26, 26, 26,0.5);}
-
+.nav_modification li {}
 nav{margin-bottom:0px!important;}
 .bg-img {background-image:url("../images/bg-image.jpg");
 		  height:630px;
@@ -39,37 +39,20 @@ nav{margin-bottom:0px!important;}
 .edu1{margin-top: 45px;
 		border-right: 1px solid red;
 		height: 151px;}
-.edu1 a{color: white;
-		font-size: 20px;
-		text-decoration: none;}
-.edu1 a:focus, a:hover {
-    color:white!important;
-    text-decoration: none!important;
-}
-.edu2 {margin-left: 60px;}
-.edu2 a{color: white;
-		font-size: 20px;
-		text-decoration: none;}
-.edu2 a:focus, a:hover {
-    color:white!important;
-    text-decoration: none!important;
-}
+.edu1 h3{color:#E9EBED;}
+.edu1 i{color:#E9EBED;line-height: 1.4;font-size:18px}
+.edu2{margin-right:80px;}
+.edu2 h3{color:#E9EBED;}
+.edu2 i{font-size:18px;color:#E9EBED;line-height: 1.4;}
+
 .edu3 {margin-top:120px}
-.edu3 a{color: white;
-		font-size: 20px;
-		text-decoration: none;}
-.edu3 a:focus, a:hover {
-    color:white!important;
-    text-decoration: none!important;
-}
-.edu4 {margin-top:120px;margin-left: 110px}
-.edu4 a{color: white;
-		font-size: 20px;
-		text-decoration: none;}
-.edu4 a:focus, a:hover {
-    color:white!important;
-    text-decoration: none!important;
-}
+.edu3 h3{color:#E9EBED;}
+.edu3 i{font-size:18px;color:#E9EBED;line-height: 1.4;}
+
+.edu4{margin-right:38px;}
+.edu4 h3{color:#E9EBED;}
+.edu4 i{font-size:18px;color:#E9EBED;line-height: 1.4;}
+
 
 
 
