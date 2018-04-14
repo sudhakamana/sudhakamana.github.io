@@ -79,4 +79,27 @@ nav{margin-bottom:0px!important;}
 #skills .progress {margin-top: 5px;width:75%}
 .navbar-header span{background-color:white}
 
+/* media queries */
+@media only screen and (max-width: 768px)
+{
+	.mrgtop h2{margin-top:20px!important;}
+	.caption h4{text-align:center}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
