@@ -88,7 +88,13 @@ nav{margin-bottom:0px!important;}
 	.edu1,.edu2,.edu3,.edu4 {border:none;}
 	.bg-img {height:380px;}
 	.about {margin-top:25px;}
+	.edu_img{height:655px;}
 }
+@media only screen and (min-width: 992px) {
+	  
+	
+	
+} 
 
 
 
