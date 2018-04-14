@@ -12,10 +12,10 @@
 
 nav{margin-bottom:0px!important;}
 .bg-img {background-image:url("../images/bg-image.jpg");
-		  height:630px;
+		  height:550px;
 		  background-size:cover;
 		  background-attachment: fixed;}
-.bg_image h1{padding-top:21%;
+.bg_image h1{padding-top:19%;
 			color:#E8E8E4;}
 .bg_image h2{color:#E8E8E4;}
 .bg_image button {padding:10px 21px;}
@@ -41,30 +41,31 @@ nav{margin-bottom:0px!important;}
 			background-attachment: fixed;
 }
 .edu_img h1{color:white;}
+.edu1,.edu2,.edu3,.edu4 h3 {color:#E8EB2B}
 .edu1{margin-top: 45px;
 		border-right:2px solid red;
 		height: 151px;}
-.edu1 h3{color:#E9EBED;}
+
 .edu1 i{color:#E9EBED;
 		line-height: 1.4;
 		font-size:18px}
 
 .edu2{margin-right:93px;
 		border-left:2px solid red}
-.edu2 h3{color:#E9EBED;}
+
 .edu2 i{font-size:18px;
 		color:#E9EBED;
 		line-height: 1.4;}
 
 .edu3 {border-right:2px solid red;}
-.edu3 h3{color:#E9EBED;}
+
 .edu3 i{font-size:18px;
 		color:#E9EBED;
 		line-height: 1.4;}
 
 .edu4{margin-right:63px;
 		border-left: 2px solid red;}
-.edu4 h3{color:#E9EBED;}
+
 .edu4 i{font-size:18px;
 		color:#E9EBED;
 		line-height: 1.4;}
@@ -84,6 +85,9 @@ nav{margin-bottom:0px!important;}
 {
 	.mrgtop h2{margin-top:20px!important;}
 	.caption h4{text-align:center}
+	.edu1,.edu2,.edu3,.edu4 {border:none;}
+	.bg-img {height:380px;}
+	.about {margin-top:25px;}
 }
 
 
